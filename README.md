@@ -1,3 +1,3 @@
 # hello-world
-Repository trail out
-I like lamb and dancing!
+Repository trail out.
+I would like to see how this works.
